@@ -1,0 +1,53 @@
+* {
+  border-radius: 0 !important;
+}
+.btn-meow{
+  width: 150px;
+  background-color: #454747;
+  box-shadow: grey 2px 2px 2px;
+  font-family: Times New Roman, Times, serif;
+  padding: 20px;
+}
+.navbar-brand img{
+  width: 300px;
+  height: 100px;
+  object-fit: contain;
+  padding: 0px;
+}
+p{
+  color: #454747;
+}
+.hehe-row{
+  background-color: #88ccb4;
+  color: white;
+}
+h1 {
+  padding: 50px;
+  font-family: Times New Roman, Times, serif;
+
+}
+.bloop {
+
+  color: #e12bb4;
+}
+.bloop2 {
+  padding-bottom: 50px;
+  color: #e12bb4;
+}
+.btn-square {
+  width: 200px;
+  height: 50px;
+  box-shadow: grey 2px 2px 2px;
+  background-color: #454747;
+  font-family: Times New Roman, Times, serif;
+}
+.footer-section {
+  padding: 20px 0;
+  background-color: #f9f9f9;
+}
+.nav-link {
+  color: #454747;
+}
+.navbar {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
